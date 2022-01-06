@@ -1,4 +1,13 @@
 h1 {
+  size: 10000px;
+}
+.col-3 navbarleft {
+  text-align: right;
+}
+.col-3 navbarright {
+  text-align: left;
+}
+
+span.Icon.col-6 {
   text-align: center;
-  color: red;
 }
